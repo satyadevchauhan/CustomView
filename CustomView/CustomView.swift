@@ -8,6 +8,7 @@
 
 import UIKit
 
+@IBDesignable
 class CustomView: UIView {
     
     @IBOutlet weak var label: UILabel!
